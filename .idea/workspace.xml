@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3822fbf3-f4fc-405f-98dc-f52467d390c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dash/.idea/Dash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dash/Sentiment Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dash/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dash/live graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dash/stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dash/vehicle sensor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/Fuck Nestle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matplotlib test/.idea/Matplotlib test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonDataScienceUdemy/UNZIP_ME_FOR_NOTEBOOKS/03-Pandas/Matplotlib practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonDataScienceUdemy/matplotlib practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git test/test_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../git test/main.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\justi\Python Projects\PPP\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lD8RWa22a9ZnTxMwl8AU5XUgwF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git test" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\justi\Python Projects\PPP\Test" />
+      <recent name="C:\Users\justi\Python Projects\PPP" />
+      <recent name="C:\Users\justi\Python Projects\PPP\Scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PPP-Analysis/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\justi\Python Projects\PPP\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3822fbf3-f4fc-405f-98dc-f52467d390c8" name="Default Changelist" comment="" />
+      <created>1607120293152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607120293152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
