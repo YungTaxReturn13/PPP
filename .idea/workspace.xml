@@ -2,34 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3822fbf3-f4fc-405f-98dc-f52467d390c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dash/.idea/Dash.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dash/Sentiment Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dash/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dash/live graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dash/stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dash/vehicle sensor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/Fuck Nestle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fuck Nestle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matplotlib test/.idea/Matplotlib test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonDataScienceUdemy/UNZIP_ME_FOR_NOTEBOOKS/03-Pandas/Matplotlib practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonDataScienceUdemy/matplotlib practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../git test/test_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../git test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../git test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../git test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPP-Analysis/Coordinates/22314.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPP-Analysis/Coordinates/22801.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template" beforeDir="false" afterPath="$PROJECT_DIR$/PPP-Analysis Template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/PPP-Analysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/.mapbox_token" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/Scripts/get_coordinates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/Scripts/get_data_ready.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/Scripts/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/Scripts/mapbox_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/crying-cat-meme-lede.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis Template/usage.json" beforeDir="false" afterPath="$PROJECT_DIR$/PPP-Analysis Template/usage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/.mapbox_token" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/Coordinates/22152.csv" beforeDir="false" afterPath="$PROJECT_DIR$/PPP-Analysis/Coordinates/22152.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/Scripts/get_coordinates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/Scripts/get_data_ready.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/Scripts/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/Scripts/mapbox_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/crying-cat-meme-lede.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPP-Analysis/usage.json" beforeDir="false" afterPath="$PROJECT_DIR$/PPP-Analysis/usage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_coordinates.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_coordinates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data_ready.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data_ready.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -61,7 +71,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -83,20 +93,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PPP" />
+  <component name="RunManager" selected="Python.main">
+    <configuration name="get_data_ready" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PPP Analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PPP-Analysis/Scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\justi\Python Projects\PPP\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data_ready.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,9 +115,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PPP Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapbox_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PPP Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\justi\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.get_data_ready" />
+      <item itemvalue="Python.main (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.get_data_ready" />
       </list>
     </recent_temporary>
   </component>

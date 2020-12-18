@@ -7,31 +7,25 @@ import os
 #  $5 for 1000 requests. So we can make 40,000 requests per month
 # That is not enough to get the geolocations for every data point but enough to work with for now
 # Track using the JSON Accordingly and reset after a month has passed
-def get_coordinates(zip_code, data = 0 ):
-    if data == 0 :
-        return print('There was no data entered. Make sure a dataset was generated or type in a correct zip code')
-    elif str(zip_code)+'.csv' in os.listdir(r'C:\Users\justi\Python Projects\PPP\PPP-Analysis\Coordinates'):
+def get_coordinates(zip_code, df ):
+    if str(zip_code)+'.csv' in os.listdir(r'C:\Users\justi\Python Projects\PPP Analysis\PPP-Analysis\Coordinates'):
         return print('This zip code already had its data generated')
     else:
         # This section brings in the API Key
-        with open(r'C:\Users\justi\Python Projects\PPP\PPP-Analysis\API KEY.json') as g:
+        with open(r'C:\Users\justi\Python Projects\PPP Analysis\PPP-Analysis\Confidential\API KEY.json') as g:
             key = json.load(g)
         api = key["key"]
-        with open(r'C:\Users\justi\Python Projects\PPP\PPP-Analysis\usage.json') as f:
+        with open(r'C:\Users\justi\Python Projects\PPP Analysis\PPP-Analysis\usage.json') as f:
           data = json.load(f)
-
-        df = data
-        df['Zip'] = df['Zip'].apply(lambda x: str(x)[:-2])
-        df['Full_Address'] = df['Address'] + ', ' +  df['City'] + ', ' + df['State'] + ' ' + df['Zip']
 
         if data['usage'] + len(df) > 39_000:
             print('WE WILL BE GOING OVER YOUR LIMIT! RUN STOPPED')
         else:
             data['usage'] = data['usage'] + len(df)
-            with open(r'C:\Users\justi\Python Projects\PPP\PPP-Analysis\usage.json', 'w') as f:
+            with open(r'C:\Users\justi\Python Projects\PPP Analysis\PPP-Analysis\usage.json', 'w') as f:
                 json.dump(data, f, indent=4)
 
-            cols = ['Address','Lat', 'Lng']
+            cols = ['Full_Address','Lat', 'Lng']
             lst = []
 
 
@@ -51,9 +45,9 @@ def get_coordinates(zip_code, data = 0 ):
 
             coordinates = pd.DataFrame(lst,columns=cols)
 
-            coordinates.to_csv(f'{str(zip_code)}.csv')
+            coordinates.to_csv(f'PPP-Analysis\\Coordinates\\{str(zip_code)}.csv',index=False)
 
 
 
 if __name__ == '__main__':
-    get_coordinates(zip_code=22152,data=10)
+    get_coordinates()
